@@ -19,6 +19,7 @@ Steps:
     If successful, the accuracy values and time taken for different history lengths will be saved to "analysis.txt."
 
 Perceptron Analysis Visualization Code:
+
 Steps: 
 1. Install the matplotlib library if not already installed:
     Open a terminal or command prompt, run "pip install matplotlib"
