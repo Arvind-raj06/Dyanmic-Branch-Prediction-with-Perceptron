@@ -1,4 +1,4 @@
-# Dyanmic-Branch-Prediction-with-Perceptron
+# Dyanmic Branch Prediction with Perceptron
 
 Prerequisites:
 Ensure you have Python installed on your system. You can download it from Python's official website preferrable 3.7 or greater version of python compiler.
